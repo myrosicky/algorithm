@@ -22,7 +22,7 @@ XC -> 90
 CD -> 400
 CM -> 900
 
-so given an integer, pls transfer into Roman
+so given an integer, pls transform into Roman
 
  */
 public class RomanNumeral {
