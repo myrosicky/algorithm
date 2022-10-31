@@ -17,6 +17,14 @@ package main.java.alibaba;
  */
 /*
 find out the kth smallest node in a binary search tree (an ordered tree).
+
+sample:
+root=[3,1,4,null,2], k=1
+result=1
+
+root=[5,3,6,2,4,null,null,1], k=3
+result=3
+
  */
 public class KthSmallest {
 
